@@ -9187,3 +9187,12 @@ JavaScript error: https://www.condor.com/tca/searchWidget/searchWidget-custom.mi
 1526612506893	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://www.condor.com/de/frontend/dist/js/main.js?1524750788, line 1: Error: Load timeout for modules: compactSearchMainTeaser,carousel,equalheight,socialMediaSharing,toggle,tooltipCustom
 http://requirejs.org/docs/errors.html#timeout
+1526656271933	geckodriver	INFO	geckodriver 0.20.1
+1526656272099	geckodriver	INFO	Listening on 127.0.0.1:52191
+1526656272935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.b1zECcilaJYy"
+1526656275377	Marionette	INFO	Listening on port 44099
+1526656275537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.condor.com/de/index.jsp, line 2: TypeError: window.CATTParams.Errors is undefined
+JavaScript error: https://www.condor.com/de/index.jsp, line 11: TypeError: window.sessionCamRecorder is undefined
+JavaScript error: https://www.condor.com/de/index.jsp, line 1: TypeError: window.sessionCamRecorder is undefined
+JavaScript error: https://www.condor.com/de/index.jsp, line 1: TypeError: window.sessionCamRecorder.sessionId(...) is not a function
