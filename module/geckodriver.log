@@ -1,0 +1,10 @@
+1526678193298	geckodriver	INFO	geckodriver 0.20.1
+1526678193349	geckodriver	INFO	Listening on 127.0.0.1:56727
+1526678194309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.c0mJNv1Zh46o"
+1526678196500	Marionette	INFO	Listening on port 44579
+1526678196576	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7968, Gecko_IOThread] WARNING: pipe error (126): Connection reset by peer: file /build/firefox-c3U081/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: https://www.condor.com/de/frontend/dist/js/main.js?1524750788, line 1: Error: Load timeout for modules: carousel,equalheight,socialMediaSharing,toggle,tooltipCustom
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://www.condor.com/de/frontend/dist/js/main.js?1524750788, line 1: Error: Script error for: carousel
+http://requirejs.org/docs/errors.html#scripterror
