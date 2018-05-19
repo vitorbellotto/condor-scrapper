@@ -1,6 +1,8 @@
+'This is docstring section for this file'
 #!/usr/bin/env python
 
 from setuptools import setup, find_packages
+'This is a docstring for the module required for condor-scrapper'
 
 setup(
   name = 'condor-scraper',
