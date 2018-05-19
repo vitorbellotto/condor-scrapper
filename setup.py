@@ -1,4 +1,4 @@
-'This is docstring section for this file'
+This is docstring section for this file
 #!/usr/bin/env python
 
 from setuptools import setup, find_packages
