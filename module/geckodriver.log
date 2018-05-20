@@ -15,3 +15,140 @@ http://requirejs.org/docs/errors.html#scripterror
 1526693893561	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://www.condor.com/de/frontend/dist/js/main.js?1524750788, line 1: Error: Load timeout for modules: carousel,equalheight,socialMediaSharing,toggle,tooltipCustom
 http://requirejs.org/docs/errors.html#timeout
+1526762202300	geckodriver	INFO	geckodriver 0.20.1
+1526762202356	geckodriver	INFO	Listening on 127.0.0.1:36009
+1526762203303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.dY0FA9LpUaDr"
+1526762205488	Marionette	INFO	Listening on port 41311
+1526762205565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.condor.com/de/frontend/dist/js/main.js?1524750788, line 1: Error: Load timeout for modules: compactSearchMainTeaser,carousel,equalheight,socialMediaSharing,toggle,tooltipCustom
+http://requirejs.org/docs/errors.html#timeout
+1526762471584	geckodriver	INFO	geckodriver 0.20.1
+1526762471643	geckodriver	INFO	Listening on 127.0.0.1:43705
+1526762472594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.At84MaKrxIT8"
+1526762474783	Marionette	INFO	Listening on port 35301
+1526762474862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.condor.com/de/frontend/dist/js/main.js?1524750788, line 1: Error: Load timeout for modules: compactSearchMainTeaser,carousel,equalheight,socialMediaSharing,toggle,tooltipCustom
+http://requirejs.org/docs/errors.html#timeout
+1526762641161	geckodriver	INFO	geckodriver 0.20.1
+1526762641218	geckodriver	INFO	Listening on 127.0.0.1:37715
+1526762642170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.Xs29MhbVorUX"
+1526762644354	Marionette	INFO	Listening on port 37997
+1526762644441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526763858220	geckodriver	INFO	geckodriver 0.20.1
+1526763858279	geckodriver	INFO	Listening on 127.0.0.1:38479
+1526763859230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.DdaoPMbgjLG2"
+1526763861444	Marionette	INFO	Listening on port 44451
+1526763861504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526764226425	geckodriver	INFO	geckodriver 0.20.1
+1526764226487	geckodriver	INFO	Listening on 127.0.0.1:57301
+1526764227436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.re9wSNgg9XL6"
+1526764229698	Marionette	INFO	Listening on port 42689
+1526764229797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.condor.com/de/frontend/dist/js/main.js?1524750788, line 1: Error: Load timeout for modules: carousel,equalheight,socialMediaSharing,toggle,tooltipCustom
+http://requirejs.org/docs/errors.html#timeout
+1526764385890	geckodriver	INFO	geckodriver 0.20.1
+1526764385957	geckodriver	INFO	Listening on 127.0.0.1:52713
+1526764386901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.lj7ujV6TjAVW"
+1526764389111	Marionette	INFO	Listening on port 37847
+1526764389181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526764636434	geckodriver	INFO	geckodriver 0.20.1
+1526764636501	geckodriver	INFO	Listening on 127.0.0.1:39213
+1526764637445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.oVhWeShyNBFe"
+1526764639811	Marionette	INFO	Listening on port 43571
+1526764639890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526764985313	geckodriver	INFO	geckodriver 0.20.1
+1526764985383	geckodriver	INFO	Listening on 127.0.0.1:56299
+1526764986322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.YNq8qDBg0Rme"
+1526764988532	Marionette	INFO	Listening on port 35835
+1526764988597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526764991193	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526765044542	geckodriver	INFO	geckodriver 0.20.1
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11421, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11113, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1526765044721	geckodriver	INFO	Listening on 127.0.0.1:56859
+1526765045553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.fOuKGwmd9Ljl"
+1526765047663	Marionette	INFO	Listening on port 42265
+1526765047737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.condor.com/de/frontend/dist/js/main.js?1524750788, line 1: Error: Load timeout for modules: compactSearchMainTeaser,carousel,equalheight,socialMediaSharing,toggle,tooltipCustom
+http://requirejs.org/docs/errors.html#timeout
+1526765190748	geckodriver	INFO	geckodriver 0.20.1
+1526765190810	geckodriver	INFO	Listening on 127.0.0.1:37169
+1526765191758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.7EWZFEHDK8e0"
+1526765193957	Marionette	INFO	Listening on port 41825
+1526765194031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526769603826	geckodriver	INFO	geckodriver 0.20.1
+1526769603905	geckodriver	INFO	Listening on 127.0.0.1:60923
+1526769604837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.qkLaNmtYJgIO"
+1526769606947	Marionette	INFO	Listening on port 35557
+1526769607025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.condor.com/de/frontend/dist/js/main.js?1524750788, line 1: Error: Load timeout for modules: compactSearchMainTeaser,carousel,equalheight,socialMediaSharing,toggle,tooltipCustom
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://www.condor.com/ibe/javax.faces.resource/etfHome.js.xhtml?ln=etf/js, line 17: ReferenceError: Cufon is not defined
+JavaScript error: https://www.condor.com/ibe/javax.faces.resource/common.js.xhtml?ln=etf/js, line 40: ReferenceError: Cufon is not defined
+[Child 13097, MediaPlayback #1] WARNING: Decoder=7fa719903980 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-lojCEZ/firefox-60.0.1+build2/dom/media/MediaDecoderStateMachine.cpp, line 3445
+[Child 13097, MediaPlayback #2] WARNING: Decoder=7fa719903980 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-lojCEZ/firefox-60.0.1+build2/dom/media/MediaDecoderStateMachine.cpp, line 3445
+[Child 13097, MediaPlayback #2] WARNING: Decoder=7fa700cfd3e0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-lojCEZ/firefox-60.0.1+build2/dom/media/MediaDecoderStateMachine.cpp, line 3445
+1526770414288	geckodriver	INFO	geckodriver 0.20.1
+[Child 13354, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1526770414355	geckodriver	INFO	Listening on 127.0.0.1:51123
+1526770415296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.Ez0vAhYmBFmP"
+1526770417380	Marionette	INFO	Listening on port 43065
+1526770417469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526771047057	geckodriver	INFO	geckodriver 0.20.1
+1526771047124	geckodriver	INFO	Listening on 127.0.0.1:46267
+1526771048062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.VgmSohn1GUFI"
+1526771050235	Marionette	INFO	Listening on port 33413
+1526771050335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526771230688	geckodriver	INFO	geckodriver 0.20.1
+1526771230756	geckodriver	INFO	Listening on 127.0.0.1:54389
+1526771231697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.tMFJSH6M3Qwf"
+1526771233798	Marionette	INFO	Listening on port 40483
+1526771233873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.condor.com/de/frontend/dist/js/main.js?1524750788, line 1: Error: Load timeout for modules: compactSearchMainTeaser,carousel,equalheight,socialMediaSharing,toggle
+http://requirejs.org/docs/errors.html#timeout
+1526772074338	geckodriver	INFO	geckodriver 0.20.1
+1526772074404	geckodriver	INFO	Listening on 127.0.0.1:60785
+1526772075346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.ZwAMuiWb7GDW"
+1526772077507	Marionette	INFO	Listening on port 36297
+1526772077586	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.condor.com/de/frontend/dist/js/main.js?1524750788, line 1: Error: Load timeout for modules: carousel,equalheight,socialMediaSharing,toggle,tooltipCustom
+http://requirejs.org/docs/errors.html#timeout
+1526773155160	geckodriver	INFO	geckodriver 0.20.1
+1526773155225	geckodriver	INFO	Listening on 127.0.0.1:45601
+1526773156166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.xOiV4KQyYlPT"
+1526773158255	Marionette	INFO	Listening on port 40583
+1526773158337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.condor.com/de/frontend/dist/js/main.js?1524750788, line 1: Error: Load timeout for modules: compactSearchMainTeaser,carousel,equalheight,socialMediaSharing,toggle,tooltipCustom
+http://requirejs.org/docs/errors.html#timeout
+
+(/usr/lib/firefox/firefox:17363): dconf-WARNING **: 20:51:45.414: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: http://midori-browser.org/download/ubuntu/, line 64: TypeError: $(...).autosize is not a function
+1526774254212	geckodriver	INFO	geckodriver 0.20.1
+1526774254275	geckodriver	INFO	Listening on 127.0.0.1:60239
+1526774255218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.bXpWybTt116o"
+1526774257336	Marionette	INFO	Listening on port 33781
+1526774257404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526774348199	geckodriver	INFO	geckodriver 0.20.1
+1526774348259	geckodriver	INFO	Listening on 127.0.0.1:37523
+1526774349207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.PjDRVH6Ak9eU"
+1526774351334	Marionette	INFO	Listening on port 37357
+1526774351406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526774674022	geckodriver	INFO	geckodriver 0.20.1
+1526774674086	geckodriver	INFO	Listening on 127.0.0.1:52017
+1526774675032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.9brsbbXkkMBE"
+1526774677147	Marionette	INFO	Listening on port 45083
+1526774677218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.condor.com/de/frontend/dist/js/main.js?1524750788, line 1: Error: Load timeout for modules: compactSearchMainTeaser,carousel,equalheight,socialMediaSharing,toggle,tooltipCustom
+http://requirejs.org/docs/errors.html#timeout
