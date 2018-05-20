@@ -152,3 +152,20 @@ JavaScript error: http://midori-browser.org/download/ubuntu/, line 64: TypeError
 1526774677218	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://www.condor.com/de/frontend/dist/js/main.js?1524750788, line 1: Error: Load timeout for modules: compactSearchMainTeaser,carousel,equalheight,socialMediaSharing,toggle,tooltipCustom
 http://requirejs.org/docs/errors.html#timeout
+1526775044376	geckodriver	INFO	geckodriver 0.20.1
+1526775044440	geckodriver	INFO	Listening on 127.0.0.1:44553
+1526775045386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.M12ys1C39Fh6"
+1526775047547	Marionette	INFO	Listening on port 37455
+1526775047671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526775896510	geckodriver	INFO	geckodriver 0.20.1
+1526775896577	geckodriver	INFO	Listening on 127.0.0.1:53351
+1526775897518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.Wya1mqF5L6gb"
+1526775899762	Marionette	INFO	Listening on port 41511
+1526775899830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526776686443	geckodriver	INFO	geckodriver 0.20.1
+1526776686515	geckodriver	INFO	Listening on 127.0.0.1:37171
+1526776687448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-private" "-profile" "/tmp/rust_mozprofile.qfn7BhHcytUx"
+1526776689613	Marionette	INFO	Listening on port 38549
+1526776689713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.condor.com/de/frontend/dist/js/main.js?1524750788, line 1: Error: Load timeout for modules: compactSearchMainTeaser,carousel,equalheight,socialMediaSharing,toggle,tooltipCustom
+http://requirejs.org/docs/errors.html#timeout

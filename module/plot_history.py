@@ -9,11 +9,10 @@ import matplotlib.pyplot as plt
 from datetime import *
 from pprint import pprint
 
-
 def get_list_csvs():
     path = os.getcwd()
     os.chdir(path)
-    result = [i for i in glob.glob('{}/condor/data/*-*-*_*-*-*.csv'.format(path))]
+    result = [i for i in glob.glob('{}/../data/*-*-*_*-*-*.csv'.format(path))]
     return result
 
 def find_flight_date(l, elem):
