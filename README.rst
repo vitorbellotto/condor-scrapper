@@ -2,7 +2,7 @@ This project aims to scrap Condor airlines website to get the cheapest price pos
 
 This code requires python2.7. 
 
-For now, the code is run from the airline.py module. There the user can input:
+For now, the code is run from the airline.py module. There the user can use as input:
         - Company
         - Depature airport
         - Arrival airport
